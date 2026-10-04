@@ -1,0 +1,31 @@
+{
+  "fixture_notice": "离线页面资料模拟；不代表在线采集结果。",
+  "collection_scope": "离线模拟资料；可见笔记 2/2",
+  "requested_max_notes": 2,
+  "sample_count": 2,
+  "limitation": "无",
+  "columns": [
+    {
+      "theme": "早餐",
+      "repeated_topics": [],
+      "content_formats": [
+        "图文"
+      ],
+      "representative_link": "https://www.xiaohongshu.com/explore/demo-breakfast-1",
+      "sources": [
+        "https://www.xiaohongshu.com/explore/demo-breakfast-1"
+      ]
+    },
+    {
+      "theme": "便当",
+      "repeated_topics": [],
+      "content_formats": [
+        "图文"
+      ],
+      "representative_link": "https://www.xiaohongshu.com/explore/demo-mealprep-2",
+      "sources": [
+        "https://www.xiaohongshu.com/explore/demo-mealprep-2"
+      ]
+    }
+  ]
+}

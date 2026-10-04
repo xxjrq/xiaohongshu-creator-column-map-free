@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f7f2e7"/>
+  <path d="M0 0h900v900H0z" fill="#fbf8f0"/>
+  <text x="96" y="140" fill="#183f42" font-family="PingFang SC, Noto Sans CJK SC, Arial" font-size="25" font-weight="600" letter-spacing="3">免费开源 · EASY SKILLS</text>
+  <path d="M96 164h290" stroke="#183f42" stroke-width="3"/>
+  <text x="96" y="330" fill="#183f42" font-family="PingFang SC, Noto Sans CJK SC, Arial" font-size="92" font-weight="800">小红书账号</text>
+  <text x="96" y="445" fill="#183f42" font-family="PingFang SC, Noto Sans CJK SC, Arial" font-size="92" font-weight="800">栏目地图</text>
+  <text x="100" y="535" fill="#183f42" font-family="PingFang SC, Noto Sans CJK SC, Arial" font-size="34" font-weight="600">公开笔记，梳理成清晰栏目</text>
+  <text x="100" y="588" fill="#596367" font-family="PingFang SC, Noto Sans CJK SC, Arial" font-size="26">最多 10 篇可见笔记 · 保留来源与缺项</text>
+  <text x="96" y="805" fill="#586363" font-family="PingFang SC, Noto Sans CJK SC, Arial" font-size="23">一件事，一个好用的 Skill</text>
+  <rect x="1035" y="105" width="430" height="650" rx="38" fill="#e8e1d5"/>
+  <image href="icon-source.png" x="965" y="120" width="560" height="560" preserveAspectRatio="xMidYMid meet"/>
+</svg>

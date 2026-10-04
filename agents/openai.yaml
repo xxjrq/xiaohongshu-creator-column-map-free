@@ -1,0 +1,8 @@
+interface:
+  display_name: "小红书账号栏目地图"
+  short_description: "依据用户指定数量的公开笔记梳理账号栏目、重复选题与内容形式"
+  default_prompt: "使用 $xiaohongshu-creator-column-map-free 按我指定的 browserId、公开主页和 maxNotes（1–10，默认10）只读整理栏目地图，达到本次上限即停止并保留真实来源。"
+  icon_small: "./icon-512.png"
+  icon_large: "./icon-512.png"
+policy:
+  allow_implicit_invocation: true

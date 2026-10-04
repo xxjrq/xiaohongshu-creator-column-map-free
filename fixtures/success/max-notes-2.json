@@ -1,0 +1,27 @@
+{
+  "fixture_notice": "离线页面资料模拟；不代表在线采集结果。",
+  "profile_url": "https://www.xiaohongshu.com/user/profile/demo-visible",
+  "visible_notes": [
+    {
+      "title": "周一早餐：十分钟燕麦碗",
+      "format": "图文",
+      "url": "https://www.xiaohongshu.com/explore/demo-breakfast-1"
+    },
+    {
+      "title": "一周便当备菜清单",
+      "format": "图文",
+      "url": "https://www.xiaohongshu.com/explore/demo-mealprep-2"
+    },
+    {
+      "title": "下班后十五分钟番茄意面",
+      "format": "视频",
+      "url": "https://www.xiaohongshu.com/explore/demo-dinner-3"
+    },
+    {
+      "title": "周一早餐：酸奶水果杯",
+      "format": "图文",
+      "url": "https://www.xiaohongshu.com/explore/demo-breakfast-4"
+    }
+  ],
+  "maxNotes": 2
+}

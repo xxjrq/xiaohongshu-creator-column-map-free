@@ -1,0 +1,7 @@
+{
+  "name": "xiaohongshu-creator-column-map-free",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "self_test": "node scripts/self-test.mjs" }
+}

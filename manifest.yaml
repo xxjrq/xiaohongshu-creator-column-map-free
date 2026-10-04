@@ -1,0 +1,30 @@
+name: xiaohongshu-creator-column-map-free
+slug: xiaohongshu-creator-column-map-free
+display_name: 小红书账号栏目地图
+description: 在用户指定的 Easy WebBridge 浏览器环境中，读取一个公开小红书主页最多 10 篇当前可见笔记，交付栏目主题、重复选题、内容形式与代表链接的可追溯草稿。适合做账号内容盘点；主页受限、加载失败或样本不足时明确标注样本范围与缺项，绝不推断私密资料。
+version: 1.0.0
+license: MIT
+repository: https://github.com/xxjrq/xiaohongshu-creator-column-map-free
+icon: icon-512.png
+tags:
+  - xiaohongshu
+  - content-strategy
+  - creator-tools
+  - browser-research
+trigger_words:
+  - 小红书账号栏目
+  - 小红书内容盘点
+  - 笔记栏目地图
+interface:
+  display_name: "小红书账号栏目地图"
+  short_description: "依据用户指定数量的公开笔记梳理账号栏目、重复选题与内容形式"
+  default_prompt: "使用 $xiaohongshu-creator-column-map-free 按我指定的 browserId、公开主页和 maxNotes（1–10，默认10）只读整理栏目地图，达到本次上限即停止并保留真实来源。"
+  icon_small: "./icon-512.png"
+  icon_large: "./icon-512.png"
+self_test: node scripts/self-test.mjs
+seo:
+  title: 小红书账号栏目地图 Skill
+  keywords:
+    - 小红书栏目规划
+    - 内容盘点
+    - 账号内容分析

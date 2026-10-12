@@ -2,7 +2,7 @@ name: xiaohongshu-creator-column-map-free
 slug: xiaohongshu-creator-column-map-free
 display_name: 小红书账号栏目地图
 description: 在用户指定的 Easy WebBridge 浏览器环境中，读取一个公开小红书主页最多 10 篇当前可见笔记，交付栏目主题、重复选题、内容形式与代表链接的可追溯草稿。适合做账号内容盘点；主页受限、加载失败或样本不足时明确标注样本范围与缺项，绝不推断私密资料。
-version: 1.0.0
+version: 1.0.1
 license: MIT
 repository: https://github.com/xxjrq/xiaohongshu-creator-column-map-free
 icon: icon-512.png
